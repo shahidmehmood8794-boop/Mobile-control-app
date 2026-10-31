@@ -1,0 +1,6 @@
+{
+  "name": "Rehan Studio Invitation",
+  "description": "Interactive digital wedding and celebration invitation featuring wax-seal envelope reveal, scratch-off surprise, countdown, event schedule, and RSVP by Rehan Photo Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
